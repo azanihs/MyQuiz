@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyQuiz</string>
+    <string name="soal1">Nabi apakah yang ditelah oleh ikah paus?</string>
+    <string name="soal2">Nabi apakah yang bisa membelah laut?</string>
+    <string name="soal3">Nabi apakah yang bisa berbicara dengan semut? </string>
+    <string name="soal4">Nabi apakah yang kepadanya diturunkan kitab suci Alquran? </string>
+    <string name="soal5">Nabi apakah yang disuruh oleh Allah subhanawataala untuk membuat kapal di atas bukit? </string>
+</resources>
